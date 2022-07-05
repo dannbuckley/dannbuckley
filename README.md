@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi! Welcome to my profile!
+
+Here's a little about me...
+
+#### Education
+* **Starting August 2022** &mdash; M.S. Geoscience-Hydrogeology, Montana Technological University ⛏️
+* **2018-2022** &mdash; B.S. Data Science, Montana Technological University ⛏️
 
 <!--
 **dannbuckley/dannbuckley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
