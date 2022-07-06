@@ -19,6 +19,10 @@ My focus is spread across the following disciplines:
 - Data science: Python, R, and SQL (SQL Server)
 - Systems programming: C/C++ and Rust
 
+#### 📫 Contact info
+
+If you would like to get in touch, you can reach me at <dbuckley@mtech.edu>.
+
 <!--
 **dannbuckley/dannbuckley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
