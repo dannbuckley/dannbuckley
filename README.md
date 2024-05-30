@@ -3,7 +3,7 @@
 Here's a little about me...
 
 #### 🎓 Education
-- **August 2022&ndash;Present** &mdash; M.S. Geoscience-Hydrogeology, Montana Technological University ⛏️
+- **2022&ndash;2024** &mdash; M.S. Geoscience-Hydrogeology, Montana Technological University ⛏️
 - **2018&ndash;2022** &mdash; B.S. Data Science, Montana Technological University ⛏️
 
 #### 🔬 Current research interests
